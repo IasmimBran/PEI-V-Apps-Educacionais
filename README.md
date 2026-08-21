@@ -52,21 +52,24 @@ Combinem também onde os documentos vivem. A resposta é o próprio repositório
 ## Ficha de identificação da equipe
 
 Preencham e entreguem no encontro 2, junto do trabalho de delimitação do problema.
+## Ficha de identificação da equipe
 
-| Campo                                               | Preencher |
-| --------------------------------------------------- | --------- |
-| Nome da equipe                                      |           |
-| Integrante 1 (nome, RA, papel)                      Iasmim Brandão, RA 3040304626,DESENVOLVEDORA  |
-| Integrante 2 (nome, RA, papel)                      |           |
-| Integrante 3 (nome, RA, papel)                      |           |
-| Integrante 4 (nome, RA, papel)                      |           |
-| Integrante 5 (nome, RA, papel)                      |           |
-| Integrante 6 (nome, RA, papel)                      |           |
-| Instituição parceira pretendida                     | A DEFINIR |
-| Contato na instituição (nome e cargo)               | A DEFINIR |
-| Telefone ou e-mail do contato                       | A DEFINIR |
-| Situação do primeiro contato                        | A DEFINIR |
-| Instituição alternativa                             | A DEFINIR |
-| Canal de comunicação da equipe                      | A DEFINIR |
-| Endereço do repositório Git                         | A DEFINIR |
-| Horário fixo de trabalho da equipe fora do encontro | A DEFINIR |
+Preencham e entreguem no encontro 2, junto do trabalho de delimitação do problema.
+
+| Campo | Preencher |
+|---|---|
+| **Nome da equipe** | A DEFINIR |
+| **Integrante 1 (nome, RA, papel)** | Iasmim Brandão — RA 3040304626 — Desenvolvedora |
+| **Integrante 2 (nome, RA, papel)** | A DEFINIR |
+| **Integrante 3 (nome, RA, papel)** | A DEFINIR |
+| **Integrante 4 (nome, RA, papel)** | A DEFINIR |
+| **Integrante 5 (nome, RA, papel)** | A DEFINIR |
+| **Integrante 6 (nome, RA, papel)** | A DEFINIR |
+| **Instituição parceira pretendida** | A DEFINIR |
+| **Contato na instituição (nome e cargo)** | A DEFINIR |
+| **Telefone ou e-mail do contato** | A DEFINIR |
+| **Situação do primeiro contato** | A DEFINIR |
+| **Instituição alternativa** | A DEFINIR |
+| **Canal de comunicação da equipe** | A DEFINIR |
+| **Endereço do repositório Git** | https://github.com/IasmimBran/PEI-V-Apps-Educacionais/edit/main/README.md |
+| **Horário fixo de trabalho da equipe fora do encontro** | A DEFINIR |
