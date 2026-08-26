@@ -1,11 +1,12 @@
 # PEI-V-Apps-Educacionais
-Projeto Extensionista Integrador V (PEI V) — desenvolvimento de um aplicativo educacional gamificado.  📌 
+
+**Projeto Extensionista Integrador V (PEI V)** — Desenvolvimento de um aplicativo educacional gamificado. 📌
 
 # Roteiro de Formação de Equipes
 
-Projeto Extensionista Integrador V (PEI V) · 5º semestre · 2026-02 · Encontro 1
+**Projeto Extensionista Integrador V (PEI V) · 5º semestre · 2026/2 · Encontro 1**
 
-Este roteiro é o trabalho do primeiro encontro. Ao final dele a equipe existe, tem papéis distribuídos, tem uma instituição parceira em vista e sabe onde vai conversar e onde vai versionar o código. A ficha do fim do arquivo é preenchida ao longo da semana e entregue no encontro 2.
+Este roteiro é o trabalho do primeiro encontro. Ao final dele, a equipe existe, tem papéis distribuídos, tem uma instituição parceira em vista e sabe onde vai conversar e onde vai versionar o código. A ficha do fim do arquivo é preenchida ao longo da semana e entregue no encontro 2.
 
 ## Tamanho da equipe
 
@@ -19,13 +20,13 @@ Equipe formada por afinidade costuma ser mais rápida no começo e mais frágil 
 
 Papel aqui significa responsabilidade por garantir que algo aconteça, e não monopólio da tarefa. Todo mundo programa. Todo mundo escreve documentação. O que o papel define é quem responde quando aquilo falha.
 
-| Papel                  | Responde por                                                          |
-| ---------------------- | --------------------------------------------------------------------- |
-| Coordenação            | prazos, pauta do encontro de orientação, registro de progresso no AVA |
-| Contato com a parceira | agendar conversas, registrar o que foi dito, manter a relação viva    |
-| Produto                | backlog, escopo, critérios de aceite, o que fica de fora              |
-| Técnico                | repositório, arquitetura, decisões que viram ADR, build               |
-| Qualidade              | roteiro de testes, registro de defeitos, usabilidade e acessibilidade |
+| Papel | Responde por |
+|---|---|
+| **Coordenação** | Prazos, pauta do encontro de orientação e registro de progresso no AVA |
+| **Contato com a parceira** | Agendar conversas, registrar o que foi dito e manter a relação viva |
+| **Produto** | Backlog, escopo, critérios de aceite e o que fica de fora |
+| **Técnico** | Repositório, arquitetura, decisões que viram ADR e build |
+| **Qualidade** | Roteiro de testes, registro de defeitos, usabilidade e acessibilidade |
 
 Com quatro integrantes, alguém acumula dois papéis. Com seis, o papel técnico costuma ser dividido em interface e dados.
 
@@ -33,7 +34,7 @@ Três combinados evitam que isso vire hierarquia. Decisão que muda escopo ou ar
 
 ## Escolher a instituição parceira
 
-A parceira é uma instituição de ensino real: escola pública ou privada, curso técnico, projeto social com atividade educacional, cursinho, biblioteca com programa de leitura. Prefira aquela em que alguém da equipe já tem porta de entrada. Porta de entrada encurta semanas.
+A parceira é uma instituição de ensino real: escola pública ou privada, curso técnico, projeto social com atividade educacional, cursinho ou biblioteca com programa de leitura. Prefira aquela em que alguém da equipe já tem porta de entrada. Porta de entrada encurta semanas.
 
 Parceria real tem quatro sinais. Existe uma pessoa nomeada que atende vocês, com nome, cargo e contato. Essa pessoa consegue falar do problema em termos de rotina, e não de tecnologia. Ela topa participar de pelo menos uma sessão de validação com o aplicativo rodando. E ela tem interesse declarado em usar o resultado depois.
 
@@ -52,24 +53,19 @@ Combinem também onde os documentos vivem. A resposta é o próprio repositório
 ## Ficha de identificação da equipe
 
 Preencham e entreguem no encontro 2, junto do trabalho de delimitação do problema.
-## Ficha de identificação da equipe
-
-Preencham e entreguem no encontro 2, junto do trabalho de delimitação do problema.
 
 | Campo | Preencher |
 |---|---|
 | **Nome da equipe** | A DEFINIR |
 | **Integrante 1 (nome, RA, papel)** | Iasmim Brandão — RA 3040304626 — Desenvolvedora |
-| **Integrante 2 (nome, RA, papel)** | A DEFINIR |
-| **Integrante 3 (nome, RA, papel)** | A DEFINIR |
-| **Integrante 4 (nome, RA, papel)** | A DEFINIR |
-| **Integrante 5 (nome, RA, papel)** | A DEFINIR |
-| **Integrante 6 (nome, RA, papel)** | A DEFINIR |
-| **Instituição parceira pretendida** | A DEFINIR |
-| **Contato na instituição (nome e cargo)** | A DEFINIR |
-| **Telefone ou e-mail do contato** | A DEFINIR |
+| **Integrante 2 (nome, RA, papel)** | Luan Felipe do Prado Garcia de Carvalho — Qualidade e Produto |
+| **Integrante 3 (nome, RA, papel)** | Miguel de Jesus Santana —  |
+| **Integrante 4 (nome, RA, papel)** | Wellikson Wester — |
+| **Instituição parceira pretendida** | Super Cérebro — Cuiabá |
+| **Contato na instituição (nome e cargo)** | Super Cérebro |
+| **Telefone ou e-mail do contato** | (65) 99277-9708 |
 | **Situação do primeiro contato** | A DEFINIR |
-| **Instituição alternativa** | A DEFINIR |
-| **Canal de comunicação da equipe** | A DEFINIR |
-| **Endereço do repositório Git** | https://github.com/IasmimBran/PEI-V-Apps-Educacionais/edit/main/README.md |
-| **Horário fixo de trabalho da equipe fora do encontro** | A DEFINIR |
+| **Instituição alternativa** | Kumon |
+| **Canal de comunicação da equipe** | GitHub Discussions e WhatsApp |
+| **Endereço do repositório Git** | [PEI-V-Apps-Educacionais](https://github.com/IasmimBran/PEI-V-Apps-Educacionais) |
+| **Horário fixo de trabalho da equipe fora do encontro** | 19:00 |
