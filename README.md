@@ -58,13 +58,14 @@ Preencham e entreguem no encontro 2, junto do trabalho de delimitação do probl
 |---|---|
 | **Nome da equipe** | A DEFINIR |
 | **Integrante 1 (nome, RA, papel)** | Iasmim Brandão — RA 3040304626 — Desenvolvedora |
-| **Integrante 2 (nome, RA, papel)** | Luan Felipe do Prado Garcia de Carvalho — Qualidade e Produto |
+| **Integrante 2 (nome, RA, papel)** | Luan Felipe do Prado Garcia de Carvalho 3040301319
 | **Integrante 3 (nome, RA, papel)** | Miguel de Jesus Santana —  |
 | **Integrante 4 (nome, RA, papel)** | Wellikson Wester — |
-| **Instituição parceira pretendida** | Super Cérebro — Cuiabá |
-| **Contato na instituição (nome e cargo)** | Super Cérebro |
-| **Telefone ou e-mail do contato** | (65) 99277-9708 |
-| **Situação do primeiro contato** | A DEFINIR |
+| **Integrante 5 (nome, RA, papel)** |
+| **Instituição parceira pretendida** | 
+| **Contato na instituição (nome e cargo)** 
+| **Telefone ou e-mail do contato** |
+| **Situação do primeiro contato** 
 | **Instituição alternativa** | Kumon |
 | **Canal de comunicação da equipe** | GitHub Discussions e WhatsApp |
 | **Endereço do repositório Git** | [PEI-V-Apps-Educacionais](https://github.com/IasmimBran/PEI-V-Apps-Educacionais) |
