@@ -57,7 +57,7 @@ Preencham e entreguem no encontro 2, junto do trabalho de delimitação do probl
 | Campo | Preencher |
 |---|---|
 | **Nome da equipe** | A DEFINIR |
-| **Integrante 1 (nome, RA, papel)** | Iasmim Brandão — RA 3040304626 — Desenvolvedora |
+| **Integrante 1 (nome, RA, papel)** | Iasmim Brandão — RA 3040304626 — |
 | **Integrante 2 (nome, RA, papel)** | Luan Felipe do Prado Garcia de Carvalho 3040301319
 | **Integrante 3 (nome, RA, papel)** | Miguel de Jesus Santana —  |
 | **Integrante 4 (nome, RA, papel)** | Wellikson Wester — |
